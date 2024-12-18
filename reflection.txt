@@ -1,0 +1,13 @@
+Analyze your results, when does it make sense to use the various approaches?
+To see the different approaches to one problem and to think of different ways to solve an issue. 
+
+How did your speed compare with cuBLAS?
+What went well with this assignment?
+Once I got one approach I was able to just copy the stucture to reuse in the next assignment which was nice. 
+
+What was difficult?
+Thinking about to change the code from the original one.
+
+How would you approach differently?
+Starting sooner. 
+Anything else you want me to know?
